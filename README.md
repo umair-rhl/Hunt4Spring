@@ -182,7 +182,7 @@ The output file saves the data in JSON format like below:
 ```
 
 ### Setting up a Test Environment
-If you'd like to test out Spring4Hunt or the Spring4Shell vulnerability in general, then you can refer to this docker image: [vulfocus/spring-core-rce-2022-03-29](https://hub.docker.com/r/vulfocus/spring-core-rce-2022-03-29).
+If you'd like to test out Spring4Hunt or the Spring4Shell vulnerability in general, then you can always refer to this docker image: [vulfocus/spring-core-rce-2022-03-29](https://hub.docker.com/r/vulfocus/spring-core-rce-2022-03-29).
 
 The installation process is quite simple in this case as well, you just have to run the below command: 
 ```
